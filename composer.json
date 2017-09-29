@@ -1,9 +1,9 @@
 {
-    "name": "kunstmaan/tagging-bundle",
+    "name": "eden159/tagging-bundle",
     "type": "symfony-bundle",
     "description": "Uses FabienPennequin/DoctrineExtensions-Taggable to add tagging to the Kunstmaan bundles",
     "keywords": [ "kunstmaan", "cms", "tag", "tagging"],
-    "homepage": "https://github.com/Kunstmaan/KunstmaanTaggingBundle",
+    "homepage": "https://github.com/eden159/KunstmaanTaggingBundle",
     "license": "MIT",
     "authors": [
         {
