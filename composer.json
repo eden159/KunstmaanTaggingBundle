@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "symfony/symfony": "~2.8",
+        "symfony/symfony": "~3.2",
         "fpn/doctrine-extensions-taggable": "0.9.0",
         "kunstmaan/admin-bundle": "~4.0",
         "kunstmaan/adminlist-bundle": "~4.0",
